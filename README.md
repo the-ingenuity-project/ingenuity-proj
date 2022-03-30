@@ -1,1 +1,1 @@
-# team-organization
+# Project Manifesto
